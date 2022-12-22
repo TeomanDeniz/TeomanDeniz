@@ -10,10 +10,6 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9lg1gq500110hmgekykcqos/stats?cursusId=21&coalitionId=234" alt="hdeniz's 42 stats" /></a>
 </p>
 
-# 42 Projects:
-
-### Libft: <a href="https://projects.intra.42.fr/projects/42cursus-libft/projects_users/2817201"><img src="https://badge42.vercel.app/api/v2/cl9lg1gq500110hmgekykcqos/project/2817201" alt="hdeniz's 42 Libft Score" /></a>
-
 <hr>
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

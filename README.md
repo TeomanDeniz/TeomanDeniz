@@ -1,14 +1,25 @@
 ## _Working on <img src="https://cdn.discordapp.com/attachments/759517116801351762/1027305129189318676/animation.gif" sttle="image-rendering: pixelated;"> IBS_
 
 # Programing Languages
-|Html|Css|C|Javascript|Batch|Pascal|ActionScript|Assembly|Wikidot
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<a href="https://www.google.com/search?q=HTML"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/html_icon.gif"></a>|<a href="https://www.google.com/search?q=CSS"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/css_icon.gif"></a>|<a href="https://www.google.com/search?q=C+Language"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/c_icon.png"></a>|<a href="https://www.google.com/search?q=JavaScript"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/js_icon.png"></a>|<a href="https://www.google.com/search?q=Batch+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/batch_script_icon.png"></a>|<a href="https://www.google.com/search?q=Pascal+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/pascal_icon.png"></a>|<a href="https://www.google.com/search?q=Action+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/ac_icon.png"></a>|<a href="https://www.google.com/search?q=Assembly+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/asm_icon.png"></a>|<a href="https://www.wikidot.com"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/wikidot_icon.png"></a>
-
-<p align="CENTER">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9lg1gq500110hmgekykcqos/stats?cursusId=9&coalitionId=245" alt="hdeniz's 42 stats" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9lg1gq500110hmgekykcqos/stats?cursusId=21&coalitionId=234" alt="hdeniz's 42 stats" /></a>
-</p>
+|<a href="https://www.google.com/search?q=HTML"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/html_icon.gif"></a>| I can able to build Andorid apps, Windows Executes, HTA Applications and design SEO (Metadata) perfectly. |
+|:-:|:-:|
+| HTML         | |
+|<a href="https://www.google.com/search?q=CSS"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/css_icon.gif"></a>| I'm professional on CSS and I am even able to create animations with it. |
+| CSS          | |
+|<a href="https://www.google.com/search?q=JavaScript"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/js_icon.png"></a>| I am able to use modern and old JavaScript versions. (JavaScript Core, C--, IE:8 to IE:11) |
+| JavaScript   | |
+|<a href="https://www.google.com/search?q=C+Language"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/c_icon.png"></a>| I am writing K&R (75), (89), (90), and (11). Using C since 2011 and still doing some projects with it. |
+| C            | |
+|<a href="https://www.google.com/search?q=Batch+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/batch_script_icon.png"></a>| I am using Batch Script since 2009 or less. Started to do some small applications with it from MS-DOS. |
+| Batch Script | |
+|<a href="https://www.google.com/search?q=Pascal+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/pascal_icon.png"></a>| I am startet at Pascal Programing language at TRS-80 computers with Tiny Pascal. I am now continuing at Pascal programing language with Free Pascal. |
+| Pascal       | |
+|<a href="https://www.google.com/search?q=Action+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/ac_icon.png"></a>| I am used ActionScript for creating and reverse engineering Flash Games. Nowadays, I am using it for optimising unplayable Flash games for todays' systems or making .exe files/products. |
+| ActionScript | |
+|<a href="https://www.google.com/search?q=Assembly+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/asm_icon.png"></a>| I know x86 Intel Assembly language. I am using it too often with C language for optimisations. |
+| Assembly     | |
+|<a href="https://www.wikidot.com"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/wikidot_icon.png"></a>| <img src="https://cdn.discordapp.com/attachments/1196432116779597904/1196445589349597194/wikidot.png" alt="Teoman Deniz" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5512309)"> `Teoman Deniz` - Wikidot is not a programing language, but since I have a lot of experience on it, it is here. I am able to create modules and HTML bypasses in it. And I know how to use Wikidot's own modules. |
+| Wikidot      | |
 
 <hr>
 
@@ -16,5 +27,5 @@
 
 Discrod server: `https://discord.gg/jS84waHnrU`
 
-Discrod Profile: `Teoman Deniz#0001`
+Discrod Profile: `@teomandeniz` `Teoman Deniz#0001`
 

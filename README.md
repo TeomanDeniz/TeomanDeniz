@@ -12,9 +12,9 @@
 | C            | |
 |<a href="https://www.google.com/search?q=Batch+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/batch_script_icon.png"></a>| I am using Batch Script since 2009 or less. Started to do some small applications with it from MS-DOS. |
 | Batch Script | |
-|<a href="https://www.google.com/search?q=Pascal+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/pascal_icon.png"></a>| I am startet at Pascal Programing language at TRS-80 computers with Tiny Pascal. I am now continuing at Pascal programing language with Free Pascal. |
+|<a href="https://www.google.com/search?q=Pascal+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/pascal_icon.png"></a>| I am started at Pascal Programing language at TRS-80 computer with Tiny Pascal. I am now continuing at Pascal programing language with Free Pascal. |
 | Pascal       | |
-|<a href="https://www.google.com/search?q=Action+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/ac_icon.png"></a>| I am used ActionScript for creating and reverse engineering Flash Games. Nowadays, I am using it for optimising unplayable Flash games for todays' systems or making .exe files/products. |
+|<a href="https://www.google.com/search?q=Action+Script"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/ac_icon.png"></a>| I am used ActionScript for creating and reverse engineering Flash Games. Nowadays, I am using it for optimising unplayable Flash games for todays' systems or converting them to executable files/products. |
 | ActionScript | |
 |<a href="https://www.google.com/search?q=Assembly+Programing"><img style="width: 100px; height: 90px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/asm_icon.png"></a>| I know x86 Intel Assembly language. I am using it too often with C language for optimisations. |
 | Assembly     | |

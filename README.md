@@ -1,4 +1,4 @@
-## _Working on <img src="https://cdn.discordapp.com/attachments/759517116801351762/1218894965237616670/2000_file_ani.gif?ex=66095365&is=65f6de65&hm=2d7c1155d1ddf1834289b629772f9289a7f9c966bab519483c925575f32e7207" sttle="image-rendering: pixelated;"> IBS_
+## _Working on <img src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/repo_projects/2000_file_ani.gif" sttle="image-rendering: pixelated;"> IBS_
 
 # Programing Languages
 |<a href="https://www.google.com/search?q=HTML"><img style="width: 50px; height: 50;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/html_icon.gif"></a>| I can able to build Andorid apps, Windows Executes, HTA Applications and design SEO (Metadata) perfectly. |

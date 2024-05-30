@@ -18,7 +18,7 @@
 | ActionScript | |
 |<a href="https://www.google.com/search?q=Assembly+Programing"><img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/asm_icon.png"></a>| I know x86 Intel Assembly language. I am using it too often with C language for optimisations. |
 | Assembly     | |
-|<a href="https://www.wikidot.com"><img style="width: 50px; height: 50;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/wikidot_icon.png"></a>| <img src="https://cdn.discordapp.com/attachments/1196432116779597904/1196445589349597194/wikidot.png?ex=66017bc9&is=65ef06c9&hm=4c736a1d838fa41bb8620c43badbf5b2d3cc81f3cb063878bf0fb117db58fc51&" alt="Teoman Deniz" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5512309)"> `Teoman Deniz` - Wikidot is not a programing language, but since I have a lot of experience on it, it is here. I am able to create modules and HTML bypasses in it. And I know how to use Wikidot's own modules. |
+|<a href="https://www.wikidot.com"><img style="width: 50px; height: 50;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/wikidot_icon.png"></a>| <img src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/repo_projects/wikidot.png" alt="Teoman Deniz" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5512309)"> `Teoman Deniz` - Wikidot is not a programing language, but since I have a lot of experience on it, it is here. I am able to create modules and HTML bypasses in it. And I know how to use Wikidot's own modules. |
 | Wikidot      | |
 
 <hr>

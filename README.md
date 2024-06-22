@@ -1,7 +1,7 @@
 ## _Working on <img src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/repo_projects/2000_file_ani.gif" sttle="image-rendering: pixelated;"> IBS_
 
 # Programing Languages
-|<a href="https://www.google.com/search?q=HTML"><img style="width: 50px; height: 50;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/html_icon.gif"></a>| I can able to build Andorid apps, Windows Executes, HTA Applications and design SEO (Metadata) perfectly. |
+|<a href="https://www.google.com/search?q=HTML"><img style="width: 48px; height: 48;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/html_ani_org.gif"></a>| I can able to build Andorid apps, Windows Executes, HTA Applications and design SEO (Metadata) perfectly. |
 |:-:|:-:|
 | HTML         | |
 |<a href="https://www.google.com/search?q=CSS"><img style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/TeomanDeniz/TeomanDeniz/main/images/css_icon.gif"></a>| I'm professional on CSS and I am even able to create animations with it. |
